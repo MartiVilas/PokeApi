@@ -1,0 +1,22 @@
+{
+  "name": "pokeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartiVilas/PokeApi.git"
+  },
+  "keywords": [
+    "pokeapi"
+  ],
+  "author": "Darkserqer&MArtinete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartiVilas/PokeApi/issues"
+  },
+  "homepage": "https://github.com/MartiVilas/PokeApi#readme"
+}
